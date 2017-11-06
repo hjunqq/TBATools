@@ -4,3 +4,7 @@
 
 /TBATools/bin/Debug
 /TBATools/obj/Debug
+
+*.manifest binary
+*.application binary
+*.deploy binary

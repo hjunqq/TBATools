@@ -30,7 +30,7 @@
     <DefineConstants>VSTO40</DefineConstants>
     <IsWebBootstrapper>False</IsWebBootstrapper>
     <BootstrapperEnabled>true</BootstrapperEnabled>
-    <PublishUrl>C:\Users\Administrator\Documents\TBATools\</PublishUrl>
+    <PublishUrl>Publish\</PublishUrl>
     <InstallUrl />
     <TargetCulture>zh-chs</TargetCulture>
     <ApplicationVersion>1.0.0.2</ApplicationVersion>
