@@ -1,0 +1,13 @@
+C:\Users\qhjun\Documents\Visual Studio 2017\Projects\TBATools\TBATools\bin\Release\TBATools.dll.config
+C:\Users\qhjun\Documents\Visual Studio 2017\Projects\TBATools\TBATools\bin\Release\TBATools.dll
+C:\Users\qhjun\Documents\Visual Studio 2017\Projects\TBATools\TBATools\bin\Release\TBATools.pdb
+C:\Users\qhjun\Documents\Visual Studio 2017\Projects\TBATools\TBATools\bin\Release\TBATools.dll.manifest
+C:\Users\qhjun\Documents\Visual Studio 2017\Projects\TBATools\TBATools\bin\Release\TBATools.vsto
+C:\Users\qhjun\Documents\Visual Studio 2017\Projects\TBATools\TBATools\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\qhjun\Documents\Visual Studio 2017\Projects\TBATools\TBATools\obj\Release\TBATools.Properties.Resources.resources
+C:\Users\qhjun\Documents\Visual Studio 2017\Projects\TBATools\TBATools\obj\Release\TBATools.TBARibbon.resources
+C:\Users\qhjun\Documents\Visual Studio 2017\Projects\TBATools\TBATools\obj\Release\TBATools.csproj.GenerateResource.Cache
+C:\Users\qhjun\Documents\Visual Studio 2017\Projects\TBATools\TBATools\obj\Release\TBATools.csproj.CoreCompileInputs.cache
+C:\Users\qhjun\Documents\Visual Studio 2017\Projects\TBATools\TBATools\obj\Release\TBATools.dll
+C:\Users\qhjun\Documents\Visual Studio 2017\Projects\TBATools\TBATools\obj\Release\TBATools.pdb
+C:\Users\qhjun\Documents\Visual Studio 2017\Projects\TBATools\TBATools\obj\Release\TBATools.csprojResolveAssemblyReference.cache

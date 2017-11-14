@@ -1,0 +1,10 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/TBATools/bin/Debug
+/TBATools/obj/Debug
+
+*.manifest binary
+*.application binary
+*.deploy binary
