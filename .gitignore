@@ -4,7 +4,10 @@
 
 /TBATools/bin/Debug
 /TBATools/obj/Debug
-
+TBATools证书
 *.manifest binary
 *.application binary
 *.deploy binary
+.vs/
+.vs/TBATools/v15/.suo
+.vs/TBATools/v15/sqlite3/storage.ide
